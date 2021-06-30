@@ -1,0 +1,6 @@
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBEmail.dll
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBEmail.pdb
+M:\Current\Learning\PBEmail\PBEmail\obj\Debug\PBEmail.dll
+M:\Current\Learning\PBEmail\PBEmail\obj\Debug\PBEmail.pdb
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBEmail.tlb
+M:\Current\Learning\PBEmail\PBEmail\obj\Debug\PBEmail.csprojResolveAssemblyReference.cache

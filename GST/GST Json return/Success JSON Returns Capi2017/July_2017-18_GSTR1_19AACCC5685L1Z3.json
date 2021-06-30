@@ -1,0 +1,622 @@
+{
+    "gstin": "19AACCC5685L1Z3",
+    "fp": "072017",
+    "gt": 0,
+    "cur_gt": 0,
+    "version": "GST1.2.1",
+    "hash": "hash",
+    "b2b": [
+        {
+            "ctin": "19AACFC1202C1ZB",
+            "inv": [
+                {
+                    "inum": "GRAM/18/17",
+                    "idt": "05-07-2017",
+                    "val": 1250,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1059.32,
+                                "rt": 18,
+                                "camt": 95.34,
+                                "samt": 95.34,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AAJCS0651F1ZD",
+            "inv": [
+                {
+                    "inum": "CHW/85/17",
+                    "idt": "11-07-2017",
+                    "val": 1280,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1000.24,
+                                "rt": 28,
+                                "camt": 140.03,
+                                "samt": 140.03,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AADFR3171Q1ZM",
+            "inv": [
+                {
+                    "inum": "GCOM/46/17",
+                    "idt": "12-07-2017",
+                    "val": 10700,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 9067.8,
+                                "rt": 18,
+                                "camt": 816.1,
+                                "samt": 816.1,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AALCA9557G1Z4",
+            "inv": [
+                {
+                    "inum": "GRAM/63/17",
+                    "idt": "12-07-2017",
+                    "val": 1200,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1016.95,
+                                "rt": 18,
+                                "camt": 91.53,
+                                "samt": 91.53,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19ASSPS2635K2ZW",
+            "inv": [
+                {
+                    "inum": "CHW/86/17",
+                    "idt": "14-07-2017",
+                    "val": 27500,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 21484.29,
+                                "rt": 28,
+                                "camt": 3007.8,
+                                "samt": 3007.8,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AAACB7961L1Z7",
+            "inv": [
+                {
+                    "inum": "GKUS/24/17",
+                    "idt": "18-07-2017",
+                    "val": 7000,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 5468.75,
+                                "rt": 28,
+                                "camt": 765.63,
+                                "samt": 765.63,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AAACN0255D1ZV",
+            "inv": [
+                {
+                    "inum": "CHW/89/17",
+                    "idt": "20-07-2017",
+                    "val": 13200,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 11186.46,
+                                "rt": 18,
+                                "camt": 1006.78,
+                                "samt": 1006.78,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "CHW/90/17",
+                    "idt": "20-07-2017",
+                    "val": 28000,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 21875,
+                                "rt": 28,
+                                "camt": 3062.5,
+                                "samt": 3062.5,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "CHW/91/17",
+                    "idt": "20-07-2017",
+                    "val": 18200,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 16250,
+                                "rt": 12,
+                                "camt": 975,
+                                "samt": 975,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "19AABFT5923A1ZF",
+            "inv": [
+                {
+                    "inum": "GKUS/28/17",
+                    "idt": "27-07-2017",
+                    "val": 2300,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1796.88,
+                                "rt": 28,
+                                "camt": 251.56,
+                                "samt": 251.56,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ctin": "35ATSPS9909D1Z1",
+            "inv": [
+                {
+                    "inum": "GRAM/159/17",
+                    "idt": "27-07-2017",
+                    "val": 3800,
+                    "pos": "35",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 3220.3,
+                                "rt": 18,
+                                "iamt": 579.65,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "b2cs": [
+        {
+            "sply_ty": "INTRA",
+            "rt": 12,
+            "typ": "OE",
+            "pos": "19",
+            "txval": 698221.85,
+            "camt": 41893.31,
+            "samt": 41893.31,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTRA",
+            "rt": 18,
+            "typ": "OE",
+            "pos": "19",
+            "txval": 311472.11,
+            "camt": 28032.49,
+            "samt": 28032.49,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTRA",
+            "rt": 28,
+            "typ": "OE",
+            "pos": "19",
+            "txval": 1764836.4,
+            "camt": 247077.1,
+            "samt": 247077.1,
+            "csamt": 0
+        }
+    ],
+    "hsn": {
+        "data": [
+            {
+                "num": 1,
+                "hsn_sc": "8415",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 57500,
+                "txval": 44921.79,
+                "iamt": 0,
+                "samt": 6289.05,
+                "camt": 6289.05,
+                "csamt": 0
+            },
+            {
+                "num": 2,
+                "hsn_sc": "8418",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 52000,
+                "txval": 40625,
+                "iamt": 0,
+                "samt": 5687.5,
+                "camt": 5687.5,
+                "csamt": 0
+            },
+            {
+                "num": 3,
+                "hsn_sc": "8421",
+                "uqc": "PCS",
+                "qty": 1,
+                "val": 1690,
+                "txval": 1320.43,
+                "iamt": 0,
+                "samt": 184.86,
+                "camt": 184.86,
+                "csamt": 0
+            },
+            {
+                "num": 4,
+                "hsn_sc": "8443",
+                "uqc": "PCS",
+                "qty": 1,
+                "val": 3250,
+                "txval": 2754.24,
+                "iamt": 0,
+                "samt": 247.88,
+                "camt": 247.88,
+                "csamt": 0
+            },
+            {
+                "num": 5,
+                "hsn_sc": "8470",
+                "uqc": "PCS",
+                "qty": 114,
+                "val": 57511,
+                "txval": 48710.49,
+                "iamt": 579.65,
+                "samt": 4110.51,
+                "camt": 4110.51,
+                "csamt": 0
+            },
+            {
+                "num": 6,
+                "hsn_sc": "8471",
+                "uqc": "PCS",
+                "qty": 44,
+                "val": 38439,
+                "txval": 32575.55,
+                "iamt": 0,
+                "samt": 2931.8,
+                "camt": 2931.8,
+                "csamt": 0
+            },
+            {
+                "num": 7,
+                "hsn_sc": "8504",
+                "uqc": "PCS",
+                "qty": 6,
+                "val": 11700,
+                "txval": 9683.54,
+                "iamt": 0,
+                "samt": 1008.23,
+                "camt": 1008.23,
+                "csamt": 0
+            },
+            {
+                "num": 8,
+                "hsn_sc": "8506",
+                "uqc": "PCS",
+                "qty": 7,
+                "val": 7050,
+                "txval": 5564.09,
+                "iamt": 0,
+                "samt": 742.99,
+                "camt": 742.99,
+                "csamt": 0
+            },
+            {
+                "num": 9,
+                "hsn_sc": "8507",
+                "uqc": "PCS",
+                "qty": 9,
+                "val": 12570,
+                "txval": 9820.68,
+                "iamt": 0,
+                "samt": 1374.9,
+                "camt": 1374.9,
+                "csamt": 0
+            },
+            {
+                "num": 10,
+                "hsn_sc": "8509",
+                "uqc": "PCS",
+                "qty": 1,
+                "val": 2700,
+                "txval": 2109.38,
+                "iamt": 0,
+                "samt": 295.31,
+                "camt": 295.31,
+                "csamt": 0
+            },
+            {
+                "num": 11,
+                "hsn_sc": "8510",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 2040,
+                "txval": 1593.87,
+                "iamt": 0,
+                "samt": 223.14,
+                "camt": 223.14,
+                "csamt": 0
+            },
+            {
+                "num": 12,
+                "hsn_sc": "8516",
+                "uqc": "PCS",
+                "qty": 48,
+                "val": 78110,
+                "txval": 61023.54,
+                "iamt": 0,
+                "samt": 8543.3,
+                "camt": 8543.3,
+                "csamt": 0
+            },
+            {
+                "num": 13,
+                "hsn_sc": "8517",
+                "uqc": "PCS",
+                "qty": 116,
+                "val": 838650,
+                "txval": 746557.98,
+                "iamt": 0,
+                "samt": 46045.35,
+                "camt": 46045.35,
+                "csamt": 0
+            },
+            {
+                "num": 14,
+                "hsn_sc": "8518",
+                "uqc": "PCS",
+                "qty": 65,
+                "val": 78986,
+                "txval": 66155.94,
+                "iamt": 0,
+                "samt": 6414.98,
+                "camt": 6414.98,
+                "csamt": 0
+            },
+            {
+                "num": 15,
+                "hsn_sc": "8519",
+                "uqc": "PCS",
+                "qty": 4,
+                "val": 11550,
+                "txval": 9023.45,
+                "iamt": 0,
+                "samt": 1263.28,
+                "camt": 1263.28,
+                "csamt": 0
+            },
+            {
+                "num": 16,
+                "hsn_sc": "8521",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 5800,
+                "txval": 4531.26,
+                "iamt": 0,
+                "samt": 634.38,
+                "camt": 634.38,
+                "csamt": 0
+            },
+            {
+                "num": 17,
+                "hsn_sc": "8523",
+                "uqc": "PCS",
+                "qty": 22,
+                "val": 21900,
+                "txval": 18559.32,
+                "iamt": 0,
+                "samt": 1670.34,
+                "camt": 1670.34,
+                "csamt": 0
+            },
+            {
+                "num": 18,
+                "hsn_sc": "8525",
+                "uqc": "PCS",
+                "qty": 41,
+                "val": 1974850,
+                "txval": 1542851.62,
+                "iamt": 0,
+                "samt": 215999.23,
+                "camt": 215999.23,
+                "csamt": 0
+            },
+            {
+                "num": 19,
+                "hsn_sc": "8527",
+                "uqc": "PCS",
+                "qty": 6,
+                "val": 4780,
+                "txval": 4004.79,
+                "iamt": 0,
+                "samt": 387.77,
+                "camt": 387.77,
+                "csamt": 0
+            },
+            {
+                "num": 20,
+                "hsn_sc": "8528",
+                "uqc": "PCS",
+                "qty": 1,
+                "val": 24990,
+                "txval": 19523.56,
+                "iamt": 0,
+                "samt": 2733.3,
+                "camt": 2733.3,
+                "csamt": 0
+            },
+            {
+                "num": 21,
+                "hsn_sc": "8529",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 3800,
+                "txval": 3087.92,
+                "iamt": 0,
+                "samt": 356.04,
+                "camt": 356.04,
+                "csamt": 0
+            },
+            {
+                "num": 22,
+                "hsn_sc": "9002",
+                "uqc": "PCS",
+                "qty": 15,
+                "val": 152100,
+                "txval": 127742.99,
+                "iamt": 0,
+                "samt": 12178.51,
+                "camt": 12178.51,
+                "csamt": 0
+            },
+            {
+                "num": 23,
+                "hsn_sc": "9005",
+                "uqc": "PCS",
+                "qty": 3,
+                "val": 29100,
+                "txval": 23939.74,
+                "iamt": 0,
+                "samt": 2580.13,
+                "camt": 2580.13,
+                "csamt": 0
+            },
+            {
+                "num": 24,
+                "hsn_sc": "9006",
+                "uqc": "PCS",
+                "qty": 2,
+                "val": 14500,
+                "txval": 12056.41,
+                "iamt": 0,
+                "samt": 1221.79,
+                "camt": 1221.79,
+                "csamt": 0
+            },
+            {
+                "num": 25,
+                "hsn_sc": "9207",
+                "uqc": "PCS",
+                "qty": 5,
+                "val": 36500,
+                "txval": 28515.64,
+                "iamt": 0,
+                "samt": 3992.19,
+                "camt": 3992.19,
+                "csamt": 0
+            },
+            {
+                "num": 26,
+                "hsn_sc": "9403",
+                "uqc": "PCS",
+                "qty": 1,
+                "val": 900,
+                "txval": 703.13,
+                "iamt": 0,
+                "samt": 98.44,
+                "camt": 98.44,
+                "csamt": 0
+            }
+        ]
+    }
+}

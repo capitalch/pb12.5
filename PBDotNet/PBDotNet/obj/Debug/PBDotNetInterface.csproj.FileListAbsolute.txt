@@ -1,0 +1,42 @@
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBDotNetInterface.dll
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBDotNetInterface.pdb
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBDotNetInterface.tlb
+M:\Current\Learning\PBEmail\PBEmail\obj\Debug\PBDotNetInterface.dll
+M:\Current\Learning\PBEmail\PBEmail\obj\Debug\PBDotNetInterface.pdb
+M:\Current\Learning\PBEmail\PBEmail\bin\Debug\PBDotNetInterface.dll.config
+M:\Current\Learning\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.dll
+M:\Current\Learning\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.pdb
+M:\Current\Learning\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.tlb
+M:\Current\Learning\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.Properties.Resources.resources
+M:\Current\Learning\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csproj.GenerateResource.Cache
+M:\Current\Learning\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.dll
+M:\Current\Learning\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.pdb
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.dll
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.pdb
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.tlb
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.Properties.Resources.resources
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csproj.GenerateResource.Cache
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.dll
+M:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.pdb
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.dll
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.pdb
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csprojResolveAssemblyReference.cache
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.Properties.Resources.resources
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csproj.GenerateResource.Cache
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.dll
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.pdb
+G:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.tlb
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.dll
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.pdb
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.Properties.Resources.resources
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csproj.GenerateResource.Cache
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.dll
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.pdb
+H:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.tlb
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.dll
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.Properties.Resources.resources
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.csproj.GenerateResource.Cache
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.dll
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\obj\Debug\PBDotNetInterface.pdb
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.pdb
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\PBDotNet\bin\Debug\PBDotNetInterface.tlb

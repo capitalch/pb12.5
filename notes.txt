@@ -1,0 +1,6 @@
+1. FOC
+2. PDF print
+3. ledger view correct
+4. correct reflection of profit considering vat
+5. checkup of error in sales for wrong vat
+6. Vat bug when changing vat does not change percentage

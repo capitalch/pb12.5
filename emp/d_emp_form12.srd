@@ -1,0 +1,62 @@
+$PBExportHeader$d_emp_form12.srd
+release 7;
+datawindow(units=0 timer_interval=0 color=12632256 processing=0 HTMLDW=no print.documentname="" print.orientation = 0 print.margin.left = 110 print.margin.right = 110 print.margin.top = 96 print.margin.bottom = 96 print.paper.source = 0 print.paper.size = 0 print.prompt=no print.buttons=no print.preview.buttons=no )
+header(height=122 color="536870912" )
+summary(height=0 color="536870912" )
+footer(height=58 color="536870912" )
+detail(height=64 color="536870912" )
+table(column=(type=decimal(0) updatewhereclause=yes name=month dbname="emp_main.month" )
+ column=(type=decimal(0) updatewhereclause=yes name=year dbname="emp_main.year" )
+ column=(type=decimal(2) updatewhereclause=yes name=wages dbname="wages" )
+ column=(type=decimal(2) updatewhereclause=yes name=ac_1 dbname="ac_1" )
+ column=(type=decimal(0) updatewhereclause=yes name=ac_2 dbname="ac_2" )
+ column=(type=decimal(2) updatewhereclause=yes name=ac_10 dbname="ac_10" )
+ column=(type=decimal(0) updatewhereclause=yes name=ac_21 dbname="ac_21" )
+ column=(type=decimal(0) updatewhereclause=yes name=ac_22 dbname="ac_22" )
+ retrieve="  SELECt month,   
+       	year,  
+         sum(salary_due) ,
+			sum(ifnull(pf,pf_ee + pf_er,2*pf)),  
+			
+			0.00,
+        	sum(ifnull(pf,fp,2*fp)),
+			0.00,
+			0.00
+
+    FROM emp_main where emp_date between :sdate and :edate
+		group by month,year
+" arguments=(("sdate", date),("edate", date)) )
+text(band=header alignment="2" text="Period" border="0" color="0" x="91" y="10" height="48" width="146"  name=t_6  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+text(band=header alignment="2" text="text" border="0" color="0" x="256" y="10" height="48" width="475"  name=period_from  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+text(band=header alignment="2" text="To" border="0" color="0" x="746" y="10" height="48" width="73"  name=t_8  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+text(band=header alignment="2" text="text" border="0" color="0" x="834" y="10" height="48" width="475"  name=period_to  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+text(band=header alignment="2" text="Form 12A (Summery)" border="0" color="0" x="1284" y="10" height="51" width="589"  name=t_10  font.face="MS Sans Serif" font.height="-8" font.weight="700"  font.family="2" font.pitch="2" font.charset="0" font.underline="1" background.mode="2" background.color="12632256" )
+text(band=header alignment="2" text="Month" border="2" color="0" x="88" y="67" height="51" width="124"  name=month_t  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="2" text="Year" border="2" color="0" x="223" y="67" height="51" width="113"  name=compute_0002_t  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="2" text="Wages" border="2" color="0" x="347" y="67" height="51" width="300"  name=compute_0003_t  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="1" text="A/c No 2" border="2" color="0" x="1024" y="67" height="51" width="234"  name=t_2  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="2" text="A/c No 10" border="2" color="0" x="1269" y="67" height="51" width="351"  name=compute_0004_t  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="1" text="A/c No 21" border="2" color="0" x="1631" y="67" height="51" width="267"  name=t_3  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="1" text="A/c No 22" border="2" color="0" x="1909" y="67" height="51" width="267"  name=t_4  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="0" text="A/c No 1" border="2" color="0" x="662" y="67" height="51" width="351"  name=t_1  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+text(band=header alignment="2" text="Total" border="2" color="0" x="2187" y="67" height="51" width="351"  name=t_7  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12639424" )
+compute(band=detail alignment="0" expression="tomonth(month)"border="5" color="0" x="88" y="3" height="51" width="124" format="[GENERAL]"  name=compute_8  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=2 alignment="0" tabsequence=32766 border="5" color="0" x="223" y="3" height="51" width="113" format="[general]"  name=year edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=3 alignment="1" tabsequence=32766 border="5" color="0" x="347" y="3" height="51" width="300" format="###,##0.00"  name=wages edit.limit=0 edit.case=any edit.autoselect=yes edit.autohscroll=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=4 alignment="1" tabsequence=32766 border="5" color="0" x="662" y="3" height="51" width="351" format="###,##0.00"  name=ac_1 edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=5 alignment="1" tabsequence=32766 border="5" color="0" x="1024" y="3" height="51" width="234" format="###,##0.00"  name=ac_2 edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=6 alignment="1" tabsequence=32766 border="5" color="0" x="1269" y="3" height="51" width="351" format="###,##0.00"  name=ac_10 edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=7 alignment="1" tabsequence=32766 border="5" color="0" x="1631" y="3" height="51" width="267" format="###,##0.00"  name=ac_21 edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+column(band=detail id=8 alignment="1" tabsequence=32766 border="5" color="0" x="1909" y="3" height="51" width="267" format="###,##0.00"  name=ac_22 edit.limit=0 edit.case=any edit.autoselect=yes  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=detail alignment="1" expression=" ac_1  +  ac_2  +  ac_10  +  ac_21  +  ac_22 "border="5" color="0" x="2187" y="3" height="51" width="351" format="###,##0.00"  name=total  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+text(band=footer alignment="0" text="Total:" border="0" color="16711680" x="208" y="3" height="51" width="124"  name=t_5  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+compute(band=footer alignment="1" expression="sum(wages) "border="0" color="16711680" x="347" y="3" height="51" width="300" format="###,##0.00"  name=compute_1  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+compute(band=footer alignment="1" expression="sum(ac_1 for all)"border="0" color="16711680" x="658" y="3" height="51" width="351" format="###,##0.00"  name=compute_2  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=footer alignment="1" expression="sum(ac_2)"border="0" color="16711680" x="1024" y="3" height="51" width="234" format="###,##0.00"  name=compute_3  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=footer alignment="1" expression="sum(ac_10 for all) "border="0" color="16711680" x="1269" y="3" height="51" width="351" format="###,##0.00"  name=compute_4  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=footer alignment="1" expression="sum(ac_21 for all)"border="0" color="16711680" x="1631" y="3" height="51" width="267" format="###,##0.00"  name=compute_5  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=footer alignment="1" expression="sum(ac_22 for all)"border="0" color="16711680" x="1909" y="3" height="51" width="267" format="###,##0.00"  name=compute_6  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="1" background.color="536870912" )
+compute(band=footer alignment="1" expression="sum( ac_1  +  ac_2  +  ac_10  +  ac_21  +  ac_22  for all)"border="0" color="16711680" x="2187" y="3" height="51" width="351" format="###,##0.00"  name=compute_7  font.face="MS Sans Serif" font.height="-8" font.weight="400"  font.family="2" font.pitch="2" font.charset="0" background.mode="2" background.color="12632256" )
+htmltable(border="1" )
+htmlgen(clientevents="1" clientvalidation="1" clientcomputedfields="1" clientformatting="0" clientscriptable="0" generatejavascript="1" )
+  

@@ -1,0 +1,8 @@
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\bin\Debug\TestApp.exe.config
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\bin\Debug\TestApp.exe
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\bin\Debug\TestApp.pdb
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\bin\Debug\PBDotNetInterface.dll
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\obj\Debug\TestApp.exe
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\obj\Debug\TestApp.pdb
+F:\Current\Software Development\Projects\Business softwares\PB12.5\PBDotNet\TestApp\bin\Debug\PBDotNetInterface.pdb

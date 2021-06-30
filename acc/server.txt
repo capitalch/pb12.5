@@ -1,0 +1,8 @@
+-n server -x tcpip -gp 4096
+c:\progra~1\capital\acc\database\acc.db
+c:\progra~1\capital\acc\database\demo.db
+
+
+
+
+
